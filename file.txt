@@ -2,4 +2,8 @@ There was a king
 This the second change
 this the third change
 This is the fourth change
+<<<<<<< HEAD
 This the fith chnage from local
+=======
+again changed made from remote github
+>>>>>>> refs/remotes/origin/master
